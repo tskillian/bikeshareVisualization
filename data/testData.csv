@@ -1,0 +1,401 @@
+Duration,Start date,Start Station,Start terminal,End date,End Station,End terminal,Bike#,Member Type
+0h 28m 36s,1/1/2014 0:06,11th & Kenyon St NW,31102,1/1/2014 0:34,15th & F St NE,31632,W01363,Registered
+0h 2m 34s,1/1/2014 0:11,Park Rd & Holmead Pl NW,31602,1/1/2014 0:13,Lamont & Mt Pleasant NW,31107,W01433,Registered
+0h 5m 18s,1/1/2014 0:12,Convention Center / 7th & M St NW,31223,1/1/2014 0:17,New Jersey Ave & R St NW,31509,W00065,Registered
+0h 8m 0s,1/1/2014 0:14,14th & Rhode Island Ave NW,31203,1/1/2014 0:22,7th & T St NW,31109,W20903,Registered
+0h 5m 45s,1/1/2014 0:15,Thomas Circle,31241,1/1/2014 0:21,5th & K St NW,31600,W20888,Registered
+0h 21m 30s,1/1/2014 0:16,Market Square / King St & Royal St,31042,1/1/2014 0:37,S Glebe & Potomac Ave,31010,W00854,Registered
+0h 21m 38s,1/1/2014 0:16,Market Square / King St & Royal St,31042,1/1/2014 0:38,S Glebe & Potomac Ave,31010,W00107,Registered
+0h 8m 35s,1/1/2014 0:19,Constitution Ave & 2nd St NW/DOL,31271,1/1/2014 0:28,7th & F St NW / National Portrait Gallery,31232,W20352,Registered
+0h 6m 38s,1/1/2014 0:20,Constitution Ave & 2nd St NW/DOL,31271,1/1/2014 0:26,7th & F St NW / National Portrait Gallery,31232,W20825,Registered
+0h 7m 50s,1/1/2014 0:20,Constitution Ave & 2nd St NW/DOL,31271,1/1/2014 0:28,7th & F St NW / National Portrait Gallery,31232,W00319,Registered
+0h 5m 39s,1/1/2014 0:21,Constitution Ave & 2nd St NW/DOL,31271,1/1/2014 0:27,7th & F St NW / National Portrait Gallery,31232,W20363,Registered
+0h 8m 55s,1/1/2014 0:22,Columbia Rd & Belmont St NW,31113,1/1/2014 0:31,20th & O St NW / Dupont South,31234,W00032,Registered
+0h 8m 7s,1/1/2014 0:22,Columbia Rd & Belmont St NW,31113,1/1/2014 0:30,14th & R St NW,31202,W21482,Registered
+0h 6m 50s,1/1/2014 0:22,17th & K St NW / Farragut Square,31233,1/1/2014 0:29,17th & Corcoran St NW,31214,W01026,Registered
+0h 7m 18s,1/1/2014 0:22,17th & K St NW / Farragut Square,31233,1/1/2014 0:29,17th & Corcoran St NW,31214,W20586,Registered
+0h 4m 30s,1/1/2014 0:23,17th & Corcoran St NW,31214,1/1/2014 0:28,Massachusetts Ave & Dupont Circle NW,31200,W20406,Registered
+0h 4m 54s,1/1/2014 0:24,Adams Mill & Columbia Rd NW,31104,1/1/2014 0:29,14th & Harvard St NW,31105,W00078,Registered
+0h 10m 3s,1/1/2014 0:26,20th & L St NW,31250,1/1/2014 0:36,7th & F St NW / National Portrait Gallery,31232,W00584,Casual
+0h 12m 49s,1/1/2014 0:26,Convention Center / 7th & M St NW,31223,1/1/2014 0:38,14th & R St NW,31202,W20730,Registered
+0h 10m 40s,1/1/2014 0:26,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 0:37,14th & V St NW,31101,W01365,Registered
+0h 12m 33s,1/1/2014 0:26,Convention Center / 7th & M St NW,31223,1/1/2014 0:38,14th & R St NW,31202,W01261,Registered
+0h 9m 52s,1/1/2014 0:26,8th & H St NW,31228,1/1/2014 0:36,1st & M St NE,31603,W20919,Registered
+0h 9m 12s,1/1/2014 0:30,14th & V St NW,31101,1/1/2014 0:39,Georgia Ave and Fairmont St NW,31207,W20359,Registered
+0h 13m 0s,1/1/2014 0:31,Market Square / King St & Royal St,31042,1/1/2014 0:44,Braddock Rd Metro,31047,W20639,Registered
+0h 12m 24s,1/1/2014 0:31,Market Square / King St & Royal St,31042,1/1/2014 0:44,Braddock Rd Metro,31047,W00017,Registered
+0h 4m 49s,1/1/2014 0:31,4th & East Capitol St NE,31618,1/1/2014 0:36,3rd & H St NE,31616,W20188,Registered
+0h 13m 20s,1/1/2014 0:31,14th & R St NW,31202,1/1/2014 0:45,M St & Delaware Ave NE,31627,W21482,Registered
+0h 6m 39s,1/1/2014 0:32,17th St & Massachusetts Ave NW,31267,1/1/2014 0:39,19th St & Pennsylvania Ave NW,31100,W00591,Registered
+0h 6m 37s,1/1/2014 0:32,Eastern Market / 7th & North Carolina Ave SE,31610,1/1/2014 0:39,1st & K St SE,31628,W20412,Registered
+0h 6m 52s,1/1/2014 0:33,Lamont & Mt Pleasant NW,31107,1/1/2014 0:40,Georgia & New Hampshire Ave NW,31400,W00324,Registered
+0h 23m 15s,1/1/2014 0:33,14th & Belmont St NW,31119,1/1/2014 0:57,Eastern Market / 7th & North Carolina Ave SE,31610,W00098,Registered
+0h 16m 45s,1/1/2014 0:33,20th & L St NW,31250,1/1/2014 0:50,4th & M St SW,31108,W01425,Registered
+0h 24m 41s,1/1/2014 0:34,Eastern Market / 7th & North Carolina Ave SE,31610,1/1/2014 0:59,10th & Monroe St NE,31504,W20404,Registered
+0h 6m 45s,1/1/2014 0:35,10th & U St NW,31111,1/1/2014 0:41,California St & Florida Ave NW,31116,W21015,Registered
+0h 12m 29s,1/1/2014 0:36,13th & H St NE,31611,1/1/2014 0:48,Florida Ave & R St NW,31503,W20554,Registered
+0h 13m 16s,1/1/2014 0:36,13th & H St NE,31611,1/1/2014 0:49,Florida Ave & R St NW,31503,W00874,Registered
+0h 13m 53s,1/1/2014 0:37,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,1/1/2014 0:51,4th & M St SW,31108,W20560,Registered
+0h 13m 43s,1/1/2014 0:37,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,1/1/2014 0:50,4th & M St SW,31108,W00055,Registered
+0h 8m 39s,1/1/2014 0:39,10th & U St NW,31111,1/1/2014 0:47,14th & R St NW,31202,W20855,Casual
+0h 2m 6s,1/1/2014 0:38,11th & Kenyon St NW,31102,1/1/2014 0:41,Park Rd & Holmead Pl NW,31602,W00328,Registered
+0h 12m 9s,1/1/2014 0:39,Clarendon Metro / Wilson Blvd & N Highland St,31022,1/1/2014 0:51,N Adams St & Lee Hwy,31030,W20791,Registered
+0h 6m 35s,1/1/2014 0:41,8th & H St NW,31228,1/1/2014 0:47,11th & M St NW,31266,W01185,Registered
+0h 22m 58s,1/1/2014 0:41,North Capitol St & F St NW,31624,1/1/2014 1:04,14th & V St NW,31101,W20250,Registered
+0h 3m 17s,1/1/2014 0:42,Lamont & Mt Pleasant NW,31107,1/1/2014 0:45,16th & Harvard St NW,31103,W01259,Registered
+0h 8m 56s,1/1/2014 0:45,7th & R St NW / Shaw Library,31245,1/1/2014 0:54,14th & Belmont St NW,31119,W01268,Registered
+0h 4m 55s,1/1/2014 0:45,M St & Delaware Ave NE,31627,1/1/2014 0:50,Gallaudet / 8th St & Florida Ave NE,31508,W21482,Registered
+0h 8m 46s,1/1/2014 0:46,14th & V St NW,31101,1/1/2014 0:54,16th & Harvard St NW,31103,W01304,Registered
+0h 4m 58s,1/1/2014 0:46,14th & G St NW,31238,1/1/2014 0:51,Thomas Circle,31241,W00289,Registered
+0h 6m 2s,1/1/2014 0:47,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,1/1/2014 0:53,15th St & Massachusetts Ave SE,31626,W00280,Registered
+0h 14m 8s,1/1/2014 0:47,Connecticut Ave & Newark St NW / Cleveland Park,31305,1/1/2014 1:01,14th & V St NW,31101,W00659,Registered
+0h 3m 57s,1/1/2014 0:49,3rd & H St NE,31616,1/1/2014 0:53,8th & F St NE,31631,W00535,Registered
+0h 25m 22s,1/1/2014 0:49,M St & Pennsylvania Ave NW,31246,1/1/2014 1:15,New Jersey Ave & R St NW,31509,W00483,Registered
+0h 13m 41s,1/1/2014 0:50,21st St & Pennsylvania Ave NW,31252,1/1/2014 1:03,M St & Pennsylvania Ave NW,31246,W20969,Registered
+0h 14m 0s,1/1/2014 0:50,5th St & Massachusetts Ave NW,31265,1/1/2014 1:04,1st & M St NE,31603,W21168,Registered
+0h 15m 48s,1/1/2014 0:50,11th & M St NW,31266,1/1/2014 1:06,New Hampshire Ave & T St NW,31229,W20321,Registered
+0h 11m 58s,1/1/2014 0:52,10th & U St NW,31111,1/1/2014 1:04,8th & H St NW,31228,W01266,Registered
+0h 7m 33s,1/1/2014 0:53,5th & K St NW,31600,1/1/2014 1:01,Thomas Circle,31241,W20888,Registered
+0h 4m 54s,1/1/2014 0:54,Bethesda Ave & Arlington Blvd,32002,1/1/2014 0:59,Cordell & Norfolk Ave,32008,W00720,Casual
+0h 20m 54s,1/1/2014 0:54,11th & M St NW,31266,1/1/2014 1:15,20th & E St NW,31204,W01185,Registered
+0h 4m 0s,1/1/2014 0:54,1st & M St NE,31603,1/1/2014 0:58,6th & H St NE,31615,W20440,Registered
+0h 6m 57s,1/1/2014 0:56,5th St & Massachusetts Ave NW,31265,1/1/2014 1:03,Thomas Circle,31241,W20342,Registered
+0h 22m 35s,1/1/2014 0:56,10th & E St NW,31256,1/1/2014 1:18,New Hampshire Ave & T St NW,31229,W20452,Registered
+0h 6m 40s,1/1/2014 0:56,14th & V St NW,31101,1/1/2014 1:03,11th & M St NW,31266,W20690,Registered
+0h 5m 54s,1/1/2014 0:59,Washington Blvd & 7th St N,31032,1/1/2014 1:05,Virginia Square Metro / N Monroe St & 9th St N,31024,W00327,Casual
+0h 7m 42s,1/1/2014 0:57,17th & Corcoran St NW,31214,1/1/2014 1:05,18th St & Wyoming Ave NW,31114,W21451,Registered
+0h 5m 54s,1/1/2014 0:58,7th & R St NW / Shaw Library,31245,1/1/2014 1:04,17th & Corcoran St NW,31214,W20052,Registered
+0h 10m 18s,1/1/2014 0:59,11th & K St NW,31263,1/1/2014 1:09,1st & Rhode Island Ave NW,31506,W20536,Registered
+0h 10m 10s,1/1/2014 1:00,13th & H St NE,31611,1/1/2014 1:10,14th & D St SE,31607,W21034,Registered
+0h 13m 5s,1/1/2014 1:00,16th & Harvard St NW,31103,1/1/2014 1:13,1st & Rhode Island Ave NW,31506,W21422,Registered
+0h 4m 47s,1/1/2014 1:00,17th St & Massachusetts Ave NW,31267,1/1/2014 1:05,17th & K St NW / Farragut Square,31233,W20045,Registered
+0h 6m 17s,1/1/2014 1:00,Arlington Blvd & Fillmore St,31070,1/1/2014 1:07,Columbia Pike & S Walter Reed Dr,31067,W00757,Registered
+0h 2m 42s,1/1/2014 1:01,Lamont & Mt Pleasant NW,31107,1/1/2014 1:03,Park Rd & Holmead Pl NW,31602,W01433,Registered
+0h 6m 21s,1/1/2014 1:01,Arlington Blvd & Fillmore St,31070,1/1/2014 1:07,Columbia Pike & S Walter Reed Dr,31067,W21302,Registered
+0h 9m 15s,1/1/2014 1:01,Calvert St & Woodley Pl NW,31121,1/1/2014 1:10,Lamont & Mt Pleasant NW,31107,W20880,Registered
+0h 4m 39s,1/1/2014 1:05,14th St & Spring Rd NW,31401,1/1/2014 1:10,Georgia & New Hampshire Ave NW,31400,W20705,Registered
+0h 14m 22s,1/1/2014 1:05,10th & U St NW,31111,1/1/2014 1:20,4th & E St SW,31244,W20657,Registered
+0h 6m 9s,1/1/2014 1:06,15th & P St NW,31201,1/1/2014 1:12,New Hampshire Ave & T St NW,31229,W20231,Registered
+0h 10m 49s,1/1/2014 1:08,14th & V St NW,31101,1/1/2014 1:19,21st & M St NW,31212,W01465,Registered
+0h 10m 15s,1/1/2014 1:09,New Hampshire Ave & T St NW,31229,1/1/2014 1:19,Lamont & Mt Pleasant NW,31107,W21310,Registered
+0h 10m 23s,1/1/2014 1:09,14th & V St NW,31101,1/1/2014 1:19,21st & M St NW,31212,W21199,Registered
+0h 9m 19s,1/1/2014 1:09,7th & T St NW,31109,1/1/2014 1:19,4th St & Rhode Island Ave NE,31500,W20903,Registered
+0h 11m 37s,1/1/2014 1:10,11th & K St NW,31263,1/1/2014 1:21,10th & Florida Ave NW,31120,W20296,Registered
+0h 0m 5s,1/1/2014 1:10,1st & Rhode Island Ave NW,31506,1/1/2014 1:10,1st & Rhode Island Ave NW,31506,W20536,Registered
+0h 5m 11s,1/1/2014 1:12,14th & Rhode Island Ave NW,31203,1/1/2014 1:17,New Jersey Ave & R St NW,31509,W00529,Registered
+0h 5m 1s,1/1/2014 1:12,L'Enfant Plaza / 7th & C St SW,31218,1/1/2014 1:17,6th & Water St SW / SW Waterfront,31609,W00716,Registered
+0h 7m 12s,1/1/2014 1:12,Potomac & Pennsylvania Ave SE,31606,1/1/2014 1:20,19th & East Capitol St SE,31601,W00598,Registered
+0h 0m 3s,1/1/2014 1:13,11th & M St NW,31266,1/1/2014 1:13,11th & M St NW,31266,W20690,Registered
+0h 4m 19s,1/1/2014 1:13,L'Enfant Plaza / 7th & C St SW,31218,1/1/2014 1:17,6th & Water St SW / SW Waterfront,31609,W00621,Registered
+0h 12m 47s,1/1/2014 1:13,8th & H St NW,31228,1/1/2014 1:26,15th & P St NW,31201,W20656,Registered
+0h 4m 39s,1/1/2014 1:14,11th & M St NW,31266,1/1/2014 1:18,15th & P St NW,31201,W20690,Registered
+0h 14m 15s,1/1/2014 1:14,37th & O St NW / Georgetown University,31236,1/1/2014 1:28,22nd & I St NW / Foggy Bottom,31257,W00792,Registered
+0h 6m 51s,1/1/2014 1:14,17th & Corcoran St NW,31214,1/1/2014 1:21,14th & Belmont St NW,31119,W20574,Registered
+0h 15m 53s,1/1/2014 1:16,14th & Harvard St NW,31105,1/1/2014 1:32,Eckington Pl & Q St NE,31505,W20095,Registered
+0h 10m 15s,1/1/2014 1:17,Adams Mill & Columbia Rd NW,31104,1/1/2014 1:27,10th & U St NW,31111,W01373,Registered
+0h 5m 26s,1/1/2014 1:18,14th & R St NW,31202,1/1/2014 1:23,17th St & Massachusetts Ave NW,31267,W21478,Registered
+0h 3m 55s,1/1/2014 1:18,17th St & Massachusetts Ave NW,31267,1/1/2014 1:22,Massachusetts Ave & Dupont Circle NW,31200,W00702,Registered
+0h 7m 6s,1/1/2014 1:20,18th St & Wyoming Ave NW,31114,1/1/2014 1:27,10th & U St NW,31111,W21473,Registered
+0h 7m 18s,1/1/2014 1:20,18th St & Wyoming Ave NW,31114,1/1/2014 1:27,10th & U St NW,31111,W20723,Registered
+0h 16m 52s,1/1/2014 1:20,Georgia & New Hampshire Ave NW,31400,1/1/2014 1:37,14th & R St NW,31202,W20705,Registered
+0h 6m 17s,1/1/2014 1:21,10th & U St NW,31111,1/1/2014 1:27,New Hampshire Ave & T St NW,31229,W00201,Registered
+0h 8m 8s,1/1/2014 1:22,Potomac & Pennsylvania Ave SE,31606,1/1/2014 1:30,13th & D St NE,31622,W21275,Registered
+0h 10m 56s,1/1/2014 1:24,Thomas Circle,31241,1/1/2014 1:35,North Capitol St & G Pl NE,31637,W20888,Registered
+0h 7m 44s,1/1/2014 1:25,Park Rd & Holmead Pl NW,31602,1/1/2014 1:32,Adams Mill & Columbia Rd NW,31104,W21594,Registered
+0h 7m 20s,1/1/2014 1:27,16th & Harvard St NW,31103,1/1/2014 1:34,14th & R St NW,31202,W20710,Registered
+0h 7m 8s,1/1/2014 1:27,Park Rd & Holmead Pl NW,31602,1/1/2014 1:34,New Hampshire Ave & T St NW,31229,W20677,Registered
+0h 6m 22s,1/1/2014 1:27,7th & R St NW / Shaw Library,31245,1/1/2014 1:34,17th & Corcoran St NW,31214,W01375,Registered
+0h 9m 38s,1/1/2014 1:27,11th & Kenyon St NW,31102,1/1/2014 1:37,13th & U St NW,31268,W20281,Registered
+0h 10m 18s,1/1/2014 1:28,14th & Belmont St NW,31119,1/1/2014 1:39,Convention Center / 7th & M St NW,31223,W21413,Registered
+0h 4m 51s,1/1/2014 1:29,19th & East Capitol St SE,31601,1/1/2014 1:34,15th & F St NE,31632,W20777,Registered
+0h 4m 36s,1/1/2014 1:30,14th St & Spring Rd NW,31401,1/1/2014 1:34,14th & Harvard St NW,31105,W00241,Registered
+0h 4m 31s,1/1/2014 1:31,Barton St & 10th St N,31050,1/1/2014 1:35,Clarendon Metro / Wilson Blvd & N Highland St,31022,W21408,Registered
+0h 20m 53s,1/1/2014 1:32,18th St & Wyoming Ave NW,31114,1/1/2014 1:53,10th & U St NW,31111,W21644,Registered
+0h 22m 2s,1/1/2014 1:34,13th & H St NE,31611,1/1/2014 1:56,6th & Water St SW / SW Waterfront,31609,W00135,Casual
+0h 5m 9s,1/1/2014 1:34,15th & F St NE,31632,1/1/2014 1:39,8th & F St NE,31631,W01363,Registered
+0h 5m 2s,1/1/2014 1:34,15th & F St NE,31632,1/1/2014 1:39,8th & F St NE,31631,W00628,Registered
+0h 21m 34s,1/1/2014 1:34,13th & H St NE,31611,1/1/2014 1:55,6th & Water St SW / SW Waterfront,31609,W20807,Registered
+0h 18m 21s,1/1/2014 1:35,14th & V St NW,31101,1/1/2014 1:53,M St & Delaware Ave NE,31627,W21227,Registered
+0h 3m 0s,1/1/2014 1:37,10th & Monroe St NE,31504,1/1/2014 1:40,12th & Irving St NE,31511,W20177,Registered
+0h 6m 29s,1/1/2014 1:37,Convention Center / 7th & M St NW,31223,1/1/2014 1:43,15th & P St NW,31201,W20815,Registered
+0h 2m 49s,1/1/2014 1:37,10th & Monroe St NE,31504,1/1/2014 1:40,12th & Irving St NE,31511,W00727,Registered
+0h 10m 56s,1/1/2014 1:37,N Randolph St & Fairfax Dr,31034,1/1/2014 1:48,N Veitch & Key Blvd,31028,W20653,Registered
+0h 6m 47s,1/1/2014 1:37,6th & H St NE,31615,1/1/2014 1:44,8th & East Capitol St NE,31629,W01247,Registered
+0h 6m 53s,1/1/2014 1:38,6th & H St NE,31615,1/1/2014 1:44,8th & East Capitol St NE,31629,W01301,Registered
+0h 13m 12s,1/1/2014 1:38,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 1:51,Florida Ave & R St NW,31503,W01406,Registered
+0h 6m 8s,1/1/2014 1:38,14th & V St NW,31101,1/1/2014 1:44,18th St & Wyoming Ave NW,31114,W01365,Registered
+0h 4m 58s,1/1/2014 1:38,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,1/1/2014 1:43,4th & East Capitol St NE,31618,W01456,Registered
+0h 5m 46s,1/1/2014 1:38,14th & V St NW,31101,1/1/2014 1:44,18th St & Wyoming Ave NW,31114,W20179,Registered
+0h 5m 17s,1/1/2014 1:38,14th & Rhode Island Ave NW,31203,1/1/2014 1:44,11th & M St NW,31266,W01155,Registered
+0h 4m 57s,1/1/2014 1:38,14th & Rhode Island Ave NW,31203,1/1/2014 1:43,11th & M St NW,31266,W00189,Registered
+0h 7m 40s,1/1/2014 1:39,California St & Florida Ave NW,31116,1/1/2014 1:46,25th St & Pennsylvania Ave NW,31237,W00416,Registered
+0h 19m 3s,1/1/2014 1:39,Georgetown Harbor / 30th St NW,31215,1/1/2014 1:58,M St & Delaware Ave NE,31627,W21477,Registered
+0h 15m 13s,1/1/2014 1:40,17th & Corcoran St NW,31214,1/1/2014 1:55,3000 Connecticut Ave NW / National Zoo,31307,W20052,Registered
+0h 5m 49s,1/1/2014 1:40,New Jersey Ave & R St NW,31509,1/1/2014 1:45,14th & R St NW,31202,W00529,Registered
+0h 5m 47s,1/1/2014 1:40,New Jersey Ave & R St NW,31509,1/1/2014 1:45,14th & R St NW,31202,W00483,Registered
+0h 5m 2s,1/1/2014 1:40,11th & Kenyon St NW,31102,1/1/2014 1:45,14th & Harvard St NW,31105,W21096,Registered
+0h 2m 16s,1/1/2014 1:41,17th & Corcoran St NW,31214,1/1/2014 1:43,New Hampshire Ave & T St NW,31229,W01375,Registered
+0h 2m 31s,1/1/2014 1:41,17th & Corcoran St NW,31214,1/1/2014 1:43,New Hampshire Ave & T St NW,31229,W20871,Registered
+0h 7m 42s,1/1/2014 1:41,17th & K St NW,31213,1/1/2014 1:49,New Hampshire Ave & T St NW,31229,W20616,Registered
+0h 15m 8s,1/1/2014 1:41,1st & M St NE,31603,1/1/2014 1:57,3rd & Elm St NW,31118,W01468,Registered
+0h 6m 6s,1/1/2014 1:42,11th & Kenyon St NW,31102,1/1/2014 1:48,3rd & Elm St NW,31118,W20551,Registered
+0h 5m 53s,1/1/2014 1:43,Metro Center / 12th & G St NW,31230,1/1/2014 1:49,5th & K St NW,31600,W00175,Casual
+0h 5m 53s,1/1/2014 1:43,Metro Center / 12th & G St NW,31230,1/1/2014 1:49,5th & K St NW,31600,W00955,Registered
+0h 10m 33s,1/1/2014 1:44,13th & U St NW,31268,1/1/2014 1:55,5th & K St NW,31600,W21174,Registered
+0h 14m 24s,1/1/2014 1:45,21st & M St NW,31212,1/1/2014 1:59,14th & Rhode Island Ave NW,31203,W21199,Registered
+0h 6m 20s,1/1/2014 1:45,L'Enfant Plaza / 7th & C St SW,31218,1/1/2014 1:51,4th & M St SW,31108,W20232,Registered
+0h 5m 18s,1/1/2014 1:47,19th & K St NW,31253,1/1/2014 1:52,Massachusetts Ave & Dupont Circle NW,31200,W01302,Registered
+0h 7m 4s,1/1/2014 1:48,7th & T St NW,31109,1/1/2014 1:55,5th St & Massachusetts Ave NW,31265,W20195,Registered
+0h 12m 17s,1/1/2014 1:49,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 2:01,7th & R St NW / Shaw Library,31245,W21053,Registered
+0h 8m 49s,1/1/2014 1:50,8th & H St NW,31228,1/1/2014 1:58,Thomas Circle,31241,W20889,Registered
+0h 7m 41s,1/1/2014 1:50,New Hampshire Ave & T St NW,31229,1/1/2014 1:58,10th & Florida Ave NW,31120,W20748,Registered
+0h 16m 50s,1/1/2014 1:50,13th & H St NE,31611,1/1/2014 2:07,1st & M St NE,31603,W20369,Registered
+0h 4m 21s,1/1/2014 1:51,Columbus Circle / Union Station,31623,1/1/2014 1:56,8th & F St NE,31631,W21578,Registered
+0h 5m 45s,1/1/2014 1:52,20th & L St NW,31250,1/1/2014 1:58,20th St & Florida Ave NW,31110,W20134,Registered
+0h 8m 13s,1/1/2014 1:53,15th & P St NW,31201,1/1/2014 2:01,20th St & Florida Ave NW,31110,W00708,Casual
+0h 7m 57s,1/1/2014 1:53,13th & U St NW,31268,1/1/2014 2:01,Florida Ave & R St NW,31503,W20281,Registered
+0h 29m 14s,1/1/2014 1:54,11th & Kenyon St NW,31102,1/1/2014 2:23,25th St & Pennsylvania Ave NW,31237,W20205,Registered
+0h 4m 31s,1/1/2014 1:54,Columbus Circle / Union Station,31623,1/1/2014 1:59,8th & F St NE,31631,W20435,Registered
+0h 10m 41s,1/1/2014 1:56,17th & K St NW / Farragut Square,31233,1/1/2014 2:07,19th St & Pennsylvania Ave NW,31100,W01183,Casual
+0h 17m 31s,1/1/2014 1:56,15th & Euclid St  NW,31117,1/1/2014 2:14,3rd & H St NE,31616,W01204,Registered
+0h 3m 6s,1/1/2014 1:56,Park Rd & Holmead Pl NW,31602,1/1/2014 1:59,14th St & Spring Rd NW,31401,W20742,Registered
+0h 9m 21s,1/1/2014 1:57,17th & K St NW / Farragut Square,31233,1/1/2014 2:06,19th St & Pennsylvania Ave NW,31100,W21249,Casual
+0h 10m 0s,1/1/2014 1:56,11th & H St NE,31614,1/1/2014 2:06,15th & East Capitol St NE,31630,W01222,Registered
+0h 19m 43s,1/1/2014 1:57,1st & Rhode Island Ave NW,31506,1/1/2014 2:16,Eastern Market / 7th & North Carolina Ave SE,31610,W20320,Registered
+0h 14m 35s,1/1/2014 1:57,Convention Center / 7th & M St NW,31223,1/1/2014 2:11,17th & Corcoran St NW,31214,W20121,Registered
+0h 9m 59s,1/1/2014 1:57,15th & P St NW,31201,1/1/2014 2:07,7th & T St NW,31109,W01313,Registered
+0h 14m 7s,1/1/2014 1:57,Convention Center / 7th & M St NW,31223,1/1/2014 2:11,17th & Corcoran St NW,31214,W21413,Registered
+0h 4m 14s,1/1/2014 1:57,Clarendon Metro / Wilson Blvd & N Highland St,31022,1/1/2014 2:02,Barton St & 10th St N,31050,W21000,Registered
+0h 7m 12s,1/1/2014 1:58,McPherson Square / 14th & H St NW,31216,1/1/2014 2:06,Convention Center / 7th & M St NW,31223,W20569,Registered
+0h 5m 45s,1/1/2014 1:58,Fairfax Dr & Wilson Blvd,31023,1/1/2014 2:04,N Quincy St & Wilson Blvd,31039,W00151,Registered
+0h 40m 56s,1/1/2014 1:59,13th & U St NW,31268,1/1/2014 2:40,23rd & Crystal Dr,31011,W21399,Registered
+0h 2m 55s,1/1/2014 1:59,Virginia Square Metro / N Monroe St & 9th St N,31024,1/1/2014 2:02,N Quincy St & Wilson Blvd,31039,W00327,Registered
+0h 2m 35s,1/1/2014 1:59,Virginia Square Metro / N Monroe St & 9th St N,31024,1/1/2014 2:02,N Quincy St & Wilson Blvd,31039,W21106,Registered
+0h 18m 15s,1/1/2014 1:59,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 2:18,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,31015,W21073,Registered
+0h 1m 37s,1/1/2014 2:01,14th & V St NW,31101,1/1/2014 2:02,14th & Belmont St NW,31119,W00659,Registered
+0h 13m 47s,1/1/2014 2:01,14th & Harvard St NW,31105,1/1/2014 2:15,17th St & Massachusetts Ave NW,31267,W00557,Registered
+0h 5m 14s,1/1/2014 2:01,Thomas Circle,31241,1/1/2014 2:06,7th & R St NW / Shaw Library,31245,W01287,Registered
+0h 19m 59s,1/1/2014 2:01,Thomas Circle,31241,1/1/2014 2:21,17th St & Massachusetts Ave NW,31267,W20889,Registered
+0h 7m 44s,1/1/2014 2:01,California St & Florida Ave NW,31116,1/1/2014 2:09,14th & Rhode Island Ave NW,31203,W20833,Registered
+0h 6m 59s,1/1/2014 2:01,14th & Belmont St NW,31119,1/1/2014 2:08,15th & P St NW,31201,W00165,Registered
+0h 1m 49s,1/1/2014 2:02,14th & V St NW,31101,1/1/2014 2:04,14th & V St NW,31101,W20784,Registered
+0h 18m 57s,1/1/2014 2:03,Metro Center / 12th & G St NW,31230,1/1/2014 2:21,Harvard St & Adams Mill Rd NW,31112,W20645,Registered
+0h 6m 16s,1/1/2014 2:02,Clarendon Blvd & N Fillmore St,31021,1/1/2014 2:09,N Randolph St & Fairfax Dr,31034,W21521,Registered
+0h 4m 58s,1/1/2014 2:04,Eastern Market / 7th & North Carolina Ave SE,31610,1/1/2014 2:09,14th & D St SE,31607,W00407,Registered
+0h 6m 3s,1/1/2014 2:04,5th & K St NW,31600,1/1/2014 2:10,1st & M St NE,31603,W20392,Registered
+0h 14m 43s,1/1/2014 2:04,Park Rd & Holmead Pl NW,31602,1/1/2014 2:19,15th & P St NW,31201,W20626,Registered
+0h 4m 32s,1/1/2014 2:04,11th & Kenyon St NW,31102,1/1/2014 2:09,Georgia & New Hampshire Ave NW,31400,W20396,Registered
+0h 15m 11s,1/1/2014 2:05,C & O Canal & Wisconsin Ave NW,31225,1/1/2014 2:21,18th & M St NW,31221,W00375,Registered
+0h 8m 5s,1/1/2014 2:05,18th St & Wyoming Ave NW,31114,1/1/2014 2:14,7th & T St NW,31109,W21356,Registered
+0h 15m 22s,1/1/2014 2:08,10th & U St NW,31111,1/1/2014 2:23,7th & R St NW / Shaw Library,31245,W20723,Casual
+0h 11m 33s,1/1/2014 2:08,19th St & Pennsylvania Ave NW,31100,1/1/2014 2:20,7th & F St NW / National Portrait Gallery,31232,W00744,Casual
+0h 3m 42s,1/1/2014 2:07,Potomac & Pennsylvania Ave SE,31606,1/1/2014 2:11,8th & Eye St SE / Barracks Row,31608,W21543,Registered
+0h 6m 59s,1/1/2014 2:08,17th St & Massachusetts Ave NW,31267,1/1/2014 2:15,New Hampshire Ave & T St NW,31229,W20953,Registered
+0h 7m 2s,1/1/2014 2:08,17th St & Massachusetts Ave NW,31267,1/1/2014 2:15,New Hampshire Ave & T St NW,31229,W20917,Registered
+0h 14m 57s,1/1/2014 2:08,10th & U St NW,31111,1/1/2014 2:23,7th & R St NW / Shaw Library,31245,W21186,Registered
+0h 1m 40s,1/1/2014 2:09,14th & V St NW,31101,1/1/2014 2:10,14th & Belmont St NW,31119,W20561,Registered
+0h 10m 32s,1/1/2014 2:09,19th St & Pennsylvania Ave NW,31100,1/1/2014 2:20,7th & F St NW / National Portrait Gallery,31232,W00909,Casual
+0h 12m 10s,1/1/2014 2:09,7th & F St NW / National Portrait Gallery,31232,1/1/2014 2:21,17th & K St NW,31213,W00584,Registered
+0h 21m 28s,1/1/2014 2:09,Georgia & New Hampshire Ave NW,31400,1/1/2014 2:30,Convention Center / 7th & M St NW,31223,W00324,Registered
+0h 14m 47s,1/1/2014 2:09,14th & R St NW,31202,1/1/2014 2:24,Columbia Rd & Belmont St NW,31113,W20345,Registered
+0h 16m 17s,1/1/2014 2:09,22nd & I St NW / Foggy Bottom,31257,1/1/2014 2:25,4th & M St SW,31108,W00792,Registered
+0h 6m 32s,1/1/2014 2:09,Columbus Circle / Union Station,31623,1/1/2014 2:16,5th & K St NW,31600,W01390,Registered
+0h 6m 19s,1/1/2014 2:09,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,1/1/2014 2:16,8th & F St NE,31631,W00051,Registered
+0h 21m 45s,1/1/2014 2:10,New York Ave & 15th St NW,31222,1/1/2014 2:32,15th St & Massachusetts Ave SE,31626,W21205,Registered
+0h 5m 26s,1/1/2014 2:10,Crystal City Metro / 18th & Bell St,31007,1/1/2014 2:16,S Glebe & Potomac Ave,31010,W00868,Registered
+0h 25m 55s,1/1/2014 2:11,16th & Harvard St NW,31103,1/1/2014 2:37,8th & F St NE,31631,W20420,Casual
+0h 4m 4s,1/1/2014 2:11,Clarendon Metro / Wilson Blvd & N Highland St,31022,1/1/2014 2:15,N Veitch & Key Blvd,31028,W20443,Registered
+0h 12m 21s,1/1/2014 2:12,10th & U St NW,31111,1/1/2014 2:24,14th & Belmont St NW,31119,W21473,Registered
+0h 12m 45s,1/1/2014 2:12,5th St & Massachusetts Ave NW,31265,1/1/2014 2:25,4th & East Capitol St NE,31618,W00950,Registered
+0h 4m 14s,1/1/2014 2:12,Georgia Ave and Fairmont St NW,31207,1/1/2014 2:16,7th & R St NW / Shaw Library,31245,W20359,Registered
+0h 16m 8s,1/1/2014 2:12,34th St & Wisconsin Ave NW,31226,1/1/2014 2:28,11th & K St NW,31263,W21334,Registered
+0h 7m 43s,1/1/2014 2:13,Georgia Ave and Fairmont St NW,31207,1/1/2014 2:21,Convention Center / 7th & M St NW,31223,W20407,Registered
+0h 10m 55s,1/1/2014 2:14,14th & R St NW,31202,1/1/2014 2:25,25th St & Pennsylvania Ave NW,31237,W20855,Casual
+0h 15m 32s,1/1/2014 2:17,Columbus Circle / Union Station,31623,1/1/2014 2:33,11th & M St NW,31266,W00836,Casual
+0h 29m 50s,1/1/2014 2:15,Market Square / King St & Royal St,31042,1/1/2014 2:45,King St Metro,31048,W20531,Casual
+0h 10m 25s,1/1/2014 2:15,14th & Belmont St NW,31119,1/1/2014 2:25,14th St & Spring Rd NW,31401,W21405,Casual
+0h 32m 31s,1/1/2014 2:16,New Jersey Ave & R St NW,31509,1/1/2014 2:48,10th & U St NW,31111,W20558,Casual
+0h 17m 19s,1/1/2014 2:15,3rd & H St NW,31604,1/1/2014 2:32,11th & K St NW,31263,W20865,Registered
+0h 4m 45s,1/1/2014 2:15,Columbia Rd & Belmont St NW,31113,1/1/2014 2:20,16th & Harvard St NW,31103,W20441,Registered
+0h 5m 13s,1/1/2014 2:16,Thomas Circle,31241,1/1/2014 2:21,Convention Center / 7th & M St NW,31223,W00464,Registered
+0h 7m 59s,1/1/2014 2:17,15th & P St NW,31201,1/1/2014 2:25,Florida Ave & R St NW,31503,W20863,Registered
+0h 11m 36s,1/1/2014 2:17,15th & Euclid St  NW,31117,1/1/2014 2:29,Thomas Circle,31241,W00248,Registered
+0h 5m 23s,1/1/2014 2:18,14th & Belmont St NW,31119,1/1/2014 2:23,California St & Florida Ave NW,31116,W00802,Registered
+0h 2m 42s,1/1/2014 2:18,14th & Harvard St NW,31105,1/1/2014 2:21,Park Rd & Holmead Pl NW,31602,W21096,Registered
+0h 15m 46s,1/1/2014 2:19,8th & H St NW,31228,1/1/2014 2:34,Columbia Rd & Georgia Ave NW,31115,W00378,Registered
+0h 13m 56s,1/1/2014 2:19,Columbus Circle / Union Station,31623,1/1/2014 2:33,11th & M St NW,31266,W20595,Registered
+0h 10m 4s,1/1/2014 2:20,13th & U St NW,31268,1/1/2014 2:30,11th & Kenyon St NW,31102,W21536,Casual
+0h 10m 23s,1/1/2014 2:20,13th & U St NW,31268,1/1/2014 2:30,11th & Kenyon St NW,31102,W00971,Casual
+0h 10m 43s,1/1/2014 2:20,13th & U St NW,31268,1/1/2014 2:30,11th & Kenyon St NW,31102,W00993,Registered
+0h 0m 15s,1/1/2014 2:20,3rd & H St NE,31616,1/1/2014 2:20,3rd & H St NE,31616,W01204,Registered
+0h 7m 48s,1/1/2014 2:20,17th & Corcoran St NW,31214,1/1/2014 2:28,24th & N St NW,31255,W20901,Registered
+0h 18m 50s,1/1/2014 2:20,New Jersey Ave & R St NW,31509,1/1/2014 2:39,4th & M St SW,31108,W00475,Registered
+0h 24m 46s,1/1/2014 2:21,Market Square / King St & Royal St,31042,1/1/2014 2:46,King St Metro,31048,W01095,Casual
+0h 8m 53s,1/1/2014 2:21,Columbus Circle / Union Station,31623,1/1/2014 2:30,4th & E St SW,31244,W00620,Registered
+0h 8m 7s,1/1/2014 2:22,7th & R St NW / Shaw Library,31245,1/1/2014 2:30,17th & Corcoran St NW,31214,W21053,Registered
+0h 8m 49s,1/1/2014 2:24,11th & H St NE,31614,1/1/2014 2:33,15th & F St NE,31632,W21590,Casual
+0h 8m 39s,1/1/2014 2:23,11th & H St NE,31614,1/1/2014 2:32,15th & F St NE,31632,W20379,Casual
+0h 7m 24s,1/1/2014 2:23,15th & P St NW,31201,1/1/2014 2:30,5th & K St NW,31600,W20690,Registered
+0h 11m 54s,1/1/2014 2:23,14th & Harvard St NW,31105,1/1/2014 2:35,7th & T St NW,31109,W00927,Registered
+0h 9m 55s,1/1/2014 2:25,New Hampshire Ave & T St NW,31229,1/1/2014 2:35,22nd & I St NW / Foggy Bottom,31257,W20321,Registered
+0h 4m 45s,1/1/2014 2:25,18th St & Wyoming Ave NW,31114,1/1/2014 2:30,15th & Euclid St  NW,31117,W20707,Registered
+0h 12m 9s,1/1/2014 2:25,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 2:37,13th & U St NW,31268,W20322,Registered
+0h 11m 45s,1/1/2014 2:25,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 2:37,13th & U St NW,31268,W01244,Registered
+0h 12m 56s,1/1/2014 2:26,3rd & H St NE,31616,1/1/2014 2:39,Potomac & Pennsylvania Ave SE,31606,W00750,Registered
+0h 8m 25s,1/1/2014 2:27,Adams Mill & Columbia Rd NW,31104,1/1/2014 2:36,14th St & Spring Rd NW,31401,W20060,Registered
+0h 39m 42s,1/1/2014 2:28,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 3:08,36th & Calvert St NW / Glover Park,31304,W00031,Casual
+0h 39m 59s,1/1/2014 2:28,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 3:08,36th & Calvert St NW / Glover Park,31304,W20113,Casual
+0h 8m 30s,1/1/2014 2:28,1st & M St NE,31603,1/1/2014 2:36,5th St & Massachusetts Ave NW,31265,W20369,Registered
+0h 22m 9s,1/1/2014 2:28,Florida Ave & R St NW,31503,1/1/2014 2:50,13th & H St NE,31611,W21585,Registered
+0h 11m 51s,1/1/2014 2:28,14th & Harvard St NW,31105,1/1/2014 2:40,3rd & Elm St NW,31118,W01196,Registered
+0h 11m 48s,1/1/2014 2:28,14th & Harvard St NW,31105,1/1/2014 2:40,3rd & Elm St NW,31118,W01201,Registered
+0h 7m 30s,1/1/2014 2:29,1st & M St NE,31603,1/1/2014 2:36,5th St & Massachusetts Ave NW,31265,W21168,Registered
+0h 23m 27s,1/1/2014 2:30,Thomas Circle,31241,1/1/2014 2:53,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,W00248,Registered
+0h 12m 23s,1/1/2014 2:32,8th & H St NW,31228,1/1/2014 2:44,Thomas Circle,31241,W20581,Registered
+0h 9m 5s,1/1/2014 2:31,10th & U St NW,31111,1/1/2014 2:41,1st & M St NE,31603,W00318,Registered
+0h 10m 10s,1/1/2014 2:32,10th & U St NW,31111,1/1/2014 2:42,1st & M St NE,31603,W21644,Registered
+0h 15m 11s,1/1/2014 2:32,25th St & Pennsylvania Ave NW,31237,1/1/2014 2:47,New Jersey Ave & R St NW,31509,W00567,Registered
+0h 11m 37s,1/1/2014 2:32,N Randolph St & Fairfax Dr,31034,1/1/2014 2:44,Lynn & 19th St North,31014,W00162,Registered
+0h 7m 37s,1/1/2014 2:33,18th St & Wyoming Ave NW,31114,1/1/2014 2:40,15th & P St NW,31201,W01365,Registered
+0h 15m 36s,1/1/2014 2:34,7th & F St NW / National Portrait Gallery,31232,1/1/2014 2:50,6th & Water St SW / SW Waterfront,31609,W00909,Casual
+0h 11m 8s,1/1/2014 2:34,7th & F St NW / National Portrait Gallery,31232,1/1/2014 2:46,4th & M St SW,31108,W00744,Casual
+0h 18m 43s,1/1/2014 2:34,3rd St & Pennsylvania Ave SE,31269,1/1/2014 2:53,Constitution Ave & 2nd St NW/DOL,31271,W20580,Casual
+0h 18m 9s,1/1/2014 2:34,3rd St & Pennsylvania Ave SE,31269,1/1/2014 2:52,Constitution Ave & 2nd St NW/DOL,31271,W01403,Registered
+0h 9m 58s,1/1/2014 2:35,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 2:45,10th & Florida Ave NW,31120,W00199,Registered
+0h 6m 49s,1/1/2014 2:35,10th & U St NW,31111,1/1/2014 2:42,3rd & Elm St NW,31118,W00390,Registered
+0h 6m 56s,1/1/2014 2:36,10th & U St NW,31111,1/1/2014 2:43,17th & Corcoran St NW,31214,W00590,Registered
+0h 12m 10s,1/1/2014 2:37,14th & Harvard St NW,31105,1/1/2014 2:49,21st & M St NW,31212,W00342,Registered
+0h 5m 0s,1/1/2014 2:37,3rd & D St SE,31605,1/1/2014 2:42,8th & Eye St SE / Barracks Row,31608,W21634,Registered
+0h 6m 17s,1/1/2014 2:37,3rd & H St NW,31604,1/1/2014 2:43,3rd & H St NE,31616,W20136,Registered
+0h 4m 56s,1/1/2014 2:37,North Capitol St & F St NW,31624,1/1/2014 2:42,3rd & H St NE,31616,W00293,Registered
+0h 12m 26s,1/1/2014 2:37,6th & H St NE,31615,1/1/2014 2:49,1st & Rhode Island Ave NW,31506,W20982,Registered
+0h 12m 54s,1/1/2014 2:38,4th & M St SW,31108,1/1/2014 2:51,New Jersey Ave & N St NW/Dunbar HS,31636,W00383,Casual
+0h 5m 27s,1/1/2014 2:38,20th St & Florida Ave NW,31110,1/1/2014 2:44,17th & Corcoran St NW,31214,W00708,Registered
+0h 13m 43s,1/1/2014 2:39,5th St & Massachusetts Ave NW,31265,1/1/2014 2:53,13th & U St NW,31268,W00940,Registered
+0h 26m 38s,1/1/2014 2:40,11th & Kenyon St NW,31102,1/1/2014 3:06,M St & New Jersey Ave SE,31208,W00993,Casual
+0h 7m 31s,1/1/2014 2:40,20th St & Florida Ave NW,31110,1/1/2014 2:48,14th & Belmont St NW,31119,W20047,Registered
+0h 4m 4s,1/1/2014 2:41,11th & H St NE,31614,1/1/2014 2:45,6th & H St NE,31615,W20257,Registered
+0h 8m 51s,1/1/2014 2:42,New Hampshire Ave & T St NW,31229,1/1/2014 2:51,16th & Harvard St NW,31103,W00491,Registered
+0h 5m 34s,1/1/2014 2:45,Crystal City Metro / 18th & Bell St,31007,1/1/2014 2:50,Potomac Ave & 35th St S,31052,W00632,Registered
+0h 18m 59s,1/1/2014 2:46,Lynn & 19th St North,31014,1/1/2014 3:05,7th & T St NW,31109,W00162,Registered
+0h 4m 37s,1/1/2014 2:47,Convention Center / 7th & M St NW,31223,1/1/2014 2:52,3rd & H St NW,31604,W00324,Registered
+0h 3m 34s,1/1/2014 2:47,Park Rd & Holmead Pl NW,31602,1/1/2014 2:51,14th & Harvard St NW,31105,W00706,Registered
+0h 8m 28s,1/1/2014 2:51,15th & Euclid St  NW,31117,1/1/2014 3:00,14th St & Spring Rd NW,31401,W00140,Registered
+0h 33m 55s,1/1/2014 2:52,1st & Rhode Island Ave NW,31506,1/1/2014 3:26,Lincoln Park / 13th & East Capitol St NE ,31619,W20995,Casual
+0h 9m 21s,1/1/2014 2:52,14th & Belmont St NW,31119,1/1/2014 3:01,17th & Rhode Island Ave NW,31239,W00659,Casual
+0h 7m 39s,1/1/2014 2:52,14th St & Spring Rd NW,31401,1/1/2014 2:59,Adams Mill & Columbia Rd NW,31104,W20060,Registered
+0h 6m 41s,1/1/2014 2:52,15th & Euclid St  NW,31117,1/1/2014 2:59,Park Rd & Holmead Pl NW,31602,W21278,Registered
+0h 5m 4s,1/1/2014 2:53,14th & R St NW,31202,1/1/2014 2:58,20th & O St NW / Dupont South,31234,W20730,Registered
+0h 4m 52s,1/1/2014 2:54,Constitution Ave & 2nd St NW/DOL,31271,1/1/2014 2:59,Constitution Ave & 2nd St NW/DOL,31271,W20580,Casual
+0h 4m 45s,1/1/2014 2:54,Constitution Ave & 2nd St NW/DOL,31271,1/1/2014 2:59,Constitution Ave & 2nd St NW/DOL,31271,W01403,Registered
+0h 5m 6s,1/1/2014 2:55,North Capitol St & F St NW,31624,1/1/2014 3:00,5th St & Massachusetts Ave NW,31265,W20477,Registered
+0h 5m 28s,1/1/2014 2:55,North Capitol St & F St NW,31624,1/1/2014 3:01,5th St & Massachusetts Ave NW,31265,W21263,Registered
+0h 12m 56s,1/1/2014 2:56,8th & H St NW,31228,1/1/2014 3:09,13th & U St NW,31268,W21497,Registered
+0h 17m 57s,1/1/2014 3:02,Calvert St & Woodley Pl NW,31121,1/1/2014 3:20,Connecticut & Nebraska Ave NW,31310,W20968,Casual
+0h 11m 45s,1/1/2014 2:57,5th St & Massachusetts Ave NW,31265,1/1/2014 3:09,D St & Maryland Ave NE,31612,W20369,Registered
+0h 6m 47s,1/1/2014 2:58,Park Rd & Holmead Pl NW,31602,1/1/2014 3:05,9th & Upshur St NW,31404,W20285,Registered
+0h 2m 8s,1/1/2014 2:59,Rhode Island Ave & V St NE,31513,1/1/2014 3:01,4th St & Rhode Island Ave NE,31500,W21410,Registered
+0h 9m 12s,1/1/2014 3:00,10th & U St NW,31111,1/1/2014 3:09,17th & Corcoran St NW,31214,W20558,Registered
+0h 15m 45s,1/1/2014 3:01,Florida Ave & R St NW,31503,1/1/2014 3:17,10th & U St NW,31111,W20554,Registered
+0h 19m 35s,1/1/2014 3:02,Calvert St & Woodley Pl NW,31121,1/1/2014 3:21,Connecticut & Nebraska Ave NW,31310,W20649,Casual
+0h 17m 19s,1/1/2014 3:03,7th & T St NW,31109,1/1/2014 3:21,13th & H St NE,31611,W00927,Casual
+0h 7m 24s,1/1/2014 3:05,North Capitol St & F St NW,31624,1/1/2014 3:12,8th & H St NW,31228,W20455,Casual
+0h 16m 38s,1/1/2014 3:05,14th & Rhode Island Ave NW,31203,1/1/2014 3:21,5th & K St NW,31600,W21199,Registered
+0h 18m 0s,1/1/2014 3:05,11th & K St NW,31263,1/1/2014 3:23,1st & K St SE,31628,W00354,Registered
+0h 6m 6s,1/1/2014 3:05,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 3:11,11th & M St NW,31266,W00267,Registered
+0h 8m 36s,1/1/2014 3:06,Adams Mill & Columbia Rd NW,31104,1/1/2014 3:14,14th St & Spring Rd NW,31401,W20060,Registered
+0h 6m 41s,1/1/2014 3:06,Lamont & Mt Pleasant NW,31107,1/1/2014 3:13,14th St & Spring Rd NW,31401,W01232,Registered
+0h 6m 19s,1/1/2014 3:07,10th & U St NW,31111,1/1/2014 3:13,18th St & Wyoming Ave NW,31114,W01373,Registered
+0h 6m 1s,1/1/2014 3:07,10th & U St NW,31111,1/1/2014 3:13,18th St & Wyoming Ave NW,31114,W20140,Registered
+0h 22m 26s,1/1/2014 3:07,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,31015,1/1/2014 3:30,20th St & Florida Ave NW,31110,W00357,Registered
+0h 5m 29s,1/1/2014 3:08,Adams Mill & Columbia Rd NW,31104,1/1/2014 3:14,14th & Harvard St NW,31105,W00316,Registered
+0h 23m 50s,1/1/2014 3:08,6th St & Indiana Ave NW,31264,1/1/2014 3:32,18th St & Pennsylvania Ave NW,31242,W01324,Casual
+0h 22m 23s,1/1/2014 3:09,6th St & Indiana Ave NW,31264,1/1/2014 3:31,18th St & Pennsylvania Ave NW,31242,W21636,Registered
+0h 10m 37s,1/1/2014 3:09,11th & Kenyon St NW,31102,1/1/2014 3:20,New Hampshire Ave & T St NW,31229,W20335,Casual
+0h 11m 26s,1/1/2014 3:09,14th & G St NW,31238,1/1/2014 3:21,14th & Belmont St NW,31119,W01234,Registered
+0h 3m 30s,1/1/2014 3:11,11th & H St NE,31614,1/1/2014 3:15,3rd & H St NE,31616,W00966,Registered
+0h 4m 40s,1/1/2014 3:13,18th St & Wyoming Ave NW,31114,1/1/2014 3:17,17th St & Massachusetts Ave NW,31267,W21451,Registered
+0h 4m 55s,1/1/2014 3:13,18th St & Wyoming Ave NW,31114,1/1/2014 3:18,17th St & Massachusetts Ave NW,31267,W20179,Registered
+0h 3m 1s,1/1/2014 3:14,8th & H St NW,31228,1/1/2014 3:17,10th & E St NW,31256,W00960,Casual
+0h 16m 24s,1/1/2014 3:13,7th & T St NW,31109,1/1/2014 3:30,8th & F St NE,31631,W20344,Registered
+0h 8m 52s,1/1/2014 3:14,New Hampshire Ave & T St NW,31229,1/1/2014 3:23,11th & Kenyon St NW,31102,W20926,Registered
+0h 10m 19s,1/1/2014 3:14,Lamont & Mt Pleasant NW,31107,1/1/2014 3:25,11th & Kenyon St NW,31102,W21310,Registered
+0h 7m 30s,1/1/2014 3:18,10th & E St NW,31256,1/1/2014 3:25,21st St & Constitution Ave NW,31261,W00960,Casual
+0h 15m 31s,1/1/2014 3:18,C & O Canal & Wisconsin Ave NW,31225,1/1/2014 3:33,Metro Center / 12th & G St NW,31230,W00384,Registered
+0h 13m 15s,1/1/2014 3:19,7th & F St NW / National Portrait Gallery,31232,1/1/2014 3:33,4th & E St SW,31244,W20825,Registered
+0h 11m 26s,1/1/2014 3:20,7th & F St NW / National Portrait Gallery,31232,1/1/2014 3:31,Constitution Ave & 2nd St NW/DOL,31271,W00319,Registered
+0h 11m 23s,1/1/2014 3:20,7th & F St NW / National Portrait Gallery,31232,1/1/2014 3:31,Constitution Ave & 2nd St NW/DOL,31271,W20352,Registered
+0h 7m 51s,1/1/2014 3:20,Benning Rd & East Capitol St NE / Benning Rd Metro,31707,1/1/2014 3:28,Anacostia Ave & Benning Rd NE / River Terrace ,31708,W20767,Registered
+0h 12m 35s,1/1/2014 3:20,7th & F St NW / National Portrait Gallery,31232,1/1/2014 3:33,4th & E St SW,31244,W00411,Registered
+0h 11m 59s,1/1/2014 3:22,Florida Ave & R St NW,31503,1/1/2014 3:34,Bladensburg Rd & Benning Rd NE,31617,W00740,Registered
+0h 12m 58s,1/1/2014 3:23,10th & U St NW,31111,1/1/2014 3:36,Columbus Circle / Union Station,31623,W00532,Registered
+0h 24m 19s,1/1/2014 3:24,13th & U St NW,31268,1/1/2014 3:48,8th & East Capitol St NE,31629,W20620,Casual
+0h 23m 58s,1/1/2014 3:25,13th & U St NW,31268,1/1/2014 3:49,8th & East Capitol St NE,31629,W20322,Casual
+0h 10m 52s,1/1/2014 3:28,Anacostia Ave & Benning Rd NE / River Terrace ,31708,1/1/2014 3:39,11th & H St NE,31614,W20767,Registered
+0h 3m 53s,1/1/2014 3:28,13th & U St NW,31268,1/1/2014 3:32,14th & R St NW,31202,W20608,Registered
+0h 6m 42s,1/1/2014 3:30,N Quincy St & Glebe Rd,31035,1/1/2014 3:36,Fairfax Dr & Wilson Blvd,31023,W00233,Registered
+0h 3m 2s,1/1/2014 3:31,16th & Harvard St NW,31103,1/1/2014 3:34,Lamont & Mt Pleasant NW,31107,W20441,Registered
+0h 4m 50s,1/1/2014 3:31,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 3:36,New Hampshire Ave & T St NW,31229,W20406,Registered
+0h 7m 52s,1/1/2014 3:31,18th St & Pennsylvania Ave NW,31242,1/1/2014 3:39,21st & M St NW,31212,W21636,Registered
+0h 3m 34s,1/1/2014 3:32,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,1/1/2014 3:35,3rd & D St SE,31605,W01309,Registered
+0h 6m 53s,1/1/2014 3:33,18th St & Pennsylvania Ave NW,31242,1/1/2014 3:40,21st & M St NW,31212,W01324,Casual
+0h 6m 42s,1/1/2014 3:33,11th & K St NW,31263,1/1/2014 3:40,4th & D St NW / Judiciary Square,31621,W01277,Registered
+0h 6m 23s,1/1/2014 3:35,Metro Center / 12th & G St NW,31230,1/1/2014 3:42,4th & D St NW / Judiciary Square,31621,W00384,Registered
+0h 9m 13s,1/1/2014 3:36,13th & D St NE,31622,1/1/2014 3:45,3rd & D St SE,31605,W21309,Registered
+0h 9m 9s,1/1/2014 3:36,13th & D St NE,31622,1/1/2014 3:45,3rd & D St SE,31605,W00009,Registered
+0h 0m 8s,1/1/2014 3:41,1st & M St NE,31603,1/1/2014 3:41,1st & M St NE,31603,W20847,Registered
+0h 10m 7s,1/1/2014 3:41,6th & H St NE,31615,1/1/2014 3:51,15th & F St NE,31632,W20752,Registered
+0h 7m 39s,1/1/2014 3:41,14th & R St NW,31202,1/1/2014 3:49,Florida Ave & R St NW,31503,W20705,Registered
+0h 3m 54s,1/1/2014 3:41,Park Rd & Holmead Pl NW,31602,1/1/2014 3:45,Georgia & New Hampshire Ave NW,31400,W21278,Registered
+0h 4m 10s,1/1/2014 3:41,Park Rd & Holmead Pl NW,31602,1/1/2014 3:45,Georgia & New Hampshire Ave NW,31400,W20279,Registered
+0h 5m 3s,1/1/2014 3:42,4th & East Capitol St NE,31618,1/1/2014 3:47,13th & H St NE,31611,W21491,Registered
+0h 17m 7s,1/1/2014 3:42,10th & U St NW,31111,1/1/2014 3:59,11th & H St NE,31614,W20554,Registered
+0h 4m 20s,1/1/2014 3:46,4th St & Rhode Island Ave NE,31500,1/1/2014 3:50,1st & Rhode Island Ave NW,31506,W21410,Registered
+0h 11m 20s,1/1/2014 3:46,4th & D St NW / Judiciary Square,31621,1/1/2014 3:57,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,W00384,Registered
+0h 4m 45s,1/1/2014 3:47,Constitution Ave & 2nd St NW/DOL,31271,1/1/2014 3:52,6th St & Indiana Ave NW,31264,W20403,Registered
+0h 9m 53s,1/1/2014 3:49,Connecticut & Nebraska Ave NW,31310,1/1/2014 3:59,Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir,32014,W20968,Casual
+0h 9m 19s,1/1/2014 3:50,Connecticut & Nebraska Ave NW,31310,1/1/2014 3:59,Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir,32014,W20294,Casual
+0h 11m 46s,1/1/2014 3:51,36th & Calvert St NW / Glover Park,31304,1/1/2014 4:03,17th St & Massachusetts Ave NW,31267,W20413,Registered
+0h 14m 43s,1/1/2014 3:56,22nd & I St NW / Foggy Bottom,31257,1/1/2014 4:11,Lamont & Mt Pleasant NW,31107,W21126,Registered
+0h 5m 46s,1/1/2014 3:56,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 4:02,25th St & Pennsylvania Ave NW,31237,W00995,Registered
+0h 1m 14s,1/1/2014 3:59,Columbus Circle / Union Station,31623,1/1/2014 4:00,Columbus Circle / Union Station,31623,W00532,Registered
+0h 6m 30s,1/1/2014 4:12,Park Rd & Holmead Pl NW,31602,1/1/2014 4:19,New Hampshire Ave & T St NW,31229,W00544,Registered
+0h 8m 39s,1/1/2014 4:18,11th & Kenyon St NW,31102,1/1/2014 4:26,7th & R St NW / Shaw Library,31245,W00971,Registered
+0h 10m 51s,1/1/2014 4:20,20th & O St NW / Dupont South,31234,1/1/2014 4:30,5th St & Massachusetts Ave NW,31265,W00772,Registered
+0h 4m 7s,1/1/2014 4:26,14th & Rhode Island Ave NW,31203,1/1/2014 4:30,17th & Corcoran St NW,31214,W20416,Registered
+0h 2m 2s,1/1/2014 4:30,Convention Center / 7th & M St NW,31223,1/1/2014 4:32,11th & M St NW,31266,W20596,Registered
+0h 18m 17s,1/1/2014 4:47,14th & V St NW,31101,1/1/2014 5:05,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,31015,W00015,Registered
+0h 27m 55s,1/1/2014 4:49,18th St & Wyoming Ave NW,31114,1/1/2014 5:17,14th & Rhode Island Ave NW,31203,W20056,Registered
+0h 3m 1s,1/1/2014 4:53,New Hampshire Ave & T St NW,31229,1/1/2014 4:56,13th & U St NW,31268,W20616,Registered
+0h 10m 17s,1/1/2014 4:57,Eastern Market Metro / Pennsylvania Ave & 7th St SE,31613,1/1/2014 5:07,Bladensburg Rd & Benning Rd NE,31617,W21257,Registered
+0h 3m 36s,1/1/2014 4:58,13th & U St NW,31268,1/1/2014 5:01,California St & Florida Ave NW,31116,W01244,Registered
+0h 9m 1s,1/1/2014 5:00,15th & Euclid St  NW,31117,1/1/2014 5:09,1st & Washington Hospital Center NW,31507,W20050,Registered
+0h 16m 30s,1/1/2014 5:01,Harvard St & Adams Mill Rd NW,31112,1/1/2014 5:18,Connecticut & Nebraska Ave NW,31310,W20356,Registered
+0h 3m 41s,1/1/2014 5:10,Convention Center / 7th & M St NW,31223,1/1/2014 5:14,Thomas Circle,31241,W01392,Registered
+0h 17m 12s,1/1/2014 5:10,Lamont & Mt Pleasant NW,31107,1/1/2014 5:28,US Dept of State / Virginia Ave & 21st St NW,31220,W20125,Registered
+0h 12m 44s,1/1/2014 5:25,Anacostia Library,31804,1/1/2014 5:38,M St & New Jersey Ave SE,31208,W21531,Registered
+0h 5m 57s,1/1/2014 5:30,9th & Upshur St NW,31404,1/1/2014 5:35,Columbia Rd & Georgia Ave NW,31115,W00921,Registered
+0h 3m 41s,1/1/2014 5:30,17th & Corcoran St NW,31214,1/1/2014 5:34,20th & O St NW / Dupont South,31234,W21413,Registered
+0h 17m 52s,1/1/2014 5:46,Massachusetts Ave & Dupont Circle NW,31200,1/1/2014 6:04,39th & Calvert St NW / Stoddert,31306,W00974,Registered
+0h 0m 15s,1/1/2014 5:46,1st & N St  SE,31209,1/1/2014 5:46,1st & N St  SE,31209,W00420,Registered
+0h 15m 34s,1/1/2014 5:47,1st & N St  SE,31209,1/1/2014 6:02,M St & Delaware Ave NE,31627,W00084,Registered
+0h 8m 56s,1/1/2014 5:52,14th & Rhode Island Ave NW,31203,1/1/2014 6:01,North Capitol St & F St NW,31624,W20056,Registered
+0h 6m 14s,1/1/2014 5:52,17th & Corcoran St NW,31214,1/1/2014 5:59,21st & M St NW,31212,W01116,Registered
+0h 13m 53s,1/1/2014 6:13,13th & H St NE,31611,1/1/2014 6:27,L'Enfant Plaza / 7th & C St SW,31218,W21169,Registered
+0h 6m 5s,1/1/2014 6:17,21st & M St NW,31212,1/1/2014 6:24,17th & Corcoran St NW,31214,W21636,Registered
+0h 22m 19s,1/1/2014 6:18,Bladensburg Rd & Benning Rd NE,31617,1/1/2014 6:40,USDA / 12th & Independence Ave SW,31217,W20900,Registered
+0h 22m 42s,1/1/2014 6:24,Constitution Ave & 2nd St NW/DOL,31271,1/1/2014 6:46,Potomac & Pennsylvania Ave SE,31606,W20580,Registered
+0h 10m 6s,1/1/2014 6:30,North Capitol St & F St NW,31624,1/1/2014 6:40,Bladensburg Rd & Benning Rd NE,31617,W20056,Registered
+0h 7m 7s,1/1/2014 6:32,3000 Connecticut Ave NW / National Zoo,31307,1/1/2014 6:39,Massachusetts Ave & Dupont Circle NW,31200,W20052,Registered
+0h 11m 33s,1/1/2014 6:37,Adams Mill & Columbia Rd NW,31104,1/1/2014 6:48,15th & K St NW,31254,W20769,Registered
+0h 10m 28s,1/1/2014 6:37,Park Rd & Holmead Pl NW,31602,1/1/2014 6:48,1st & Rhode Island Ave NW,31506,W01379,Registered
+0h 12m 56s,1/1/2014 6:47,Potomac & Pennsylvania Ave SE,31606,1/1/2014 7:00,Anacostia Library,31804,W00750,Registered
+0h 23m 18s,1/1/2014 6:49,13th & D St NE,31622,1/1/2014 7:13,Adams Mill & Columbia Rd NW,31104,W00968,Registered
+0h 0m 3s,1/1/2014 6:50,D St & Maryland Ave NE,31612,1/1/2014 6:50,D St & Maryland Ave NE,31612,W21003,Registered
+0h 12m 10s,1/1/2014 7:01,Florida Ave & R St NW,31503,1/1/2014 7:13,17th & K St NW,31213,W01218,Registered
+0h 5m 56s,1/1/2014 7:05,14th & Rhode Island Ave NW,31203,1/1/2014 7:11,17th & Corcoran St NW,31214,W00682,Registered
+0h 0m 16s,1/1/2014 7:12,3rd & Elm St NW,31118,1/1/2014 7:12,3rd & Elm St NW,31118,W01196,Registered
+0h 0m 6s,1/1/2014 7:12,3rd & Elm St NW,31118,1/1/2014 7:12,3rd & Elm St NW,31118,W00815,Registered
+0h 0m 2s,1/1/2014 7:13,3rd & Elm St NW,31118,1/1/2014 7:13,3rd & Elm St NW,31118,W20551,Registered
+0h 20m 24s,1/1/2014 7:23,21st & M St NW,31212,1/1/2014 7:43,Columbia Rd & Georgia Ave NW,31115,W21075,Registered
+0h 14m 47s,1/1/2014 7:24,21st & M St NW,31212,1/1/2014 7:38,4th & D St NW / Judiciary Square,31621,W01345,Registered
