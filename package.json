@@ -1,0 +1,11 @@
+{
+  "name": "bikeshareVis",
+  "version": "0.0.0",
+  "description": "Visualization of the bike transits of Bikeshare",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Killian",
+  "license": "MIT"
+}
